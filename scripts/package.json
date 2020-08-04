@@ -4,7 +4,7 @@
   "description": "chaingear scripts to build json from source",
   "main": "construct.js",
   "dependencies": {
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.19",
     "toml": "^2.2.3",
     "tomlify-j0.4": "^1.0.1"
   },
